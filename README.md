@@ -14,3 +14,9 @@ then:
 ![image](https://user-images.githubusercontent.com/15951051/115315286-9e3f7280-a13c-11eb-947a-373bb0036d19.png)
 
 ![image](https://user-images.githubusercontent.com/15951051/115315294-a5ff1700-a13c-11eb-9da7-b65d76351e52.png)
+
+Where A is defined as:
+
+![image](https://user-images.githubusercontent.com/15951051/115315894-deebbb80-a13d-11eb-84bb-bf259990c4ec.png)
+
+
