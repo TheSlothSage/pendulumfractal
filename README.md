@@ -8,7 +8,11 @@ Chaotic system of pendlum movement when attracted to 3 points in a plane by an i
 
 
 Shown here is a plot of a pendulum without any attractors.
+
+
 ![image](https://user-images.githubusercontent.com/15951051/115473348-2dae5980-a201-11eb-93a2-46ccea5a78e1.png)
+
+
 
 
 POC in matlab, full visualization in haskell 
