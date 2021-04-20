@@ -14,7 +14,7 @@ then, combining this equation with the kinematic equation of motion (x = V0t + (
 
 (Changing constants for pretty-ness)
 
-![image](https://user-images.githubusercontent.com/15951051/115320254-275ba700-a147-11eb-9799-e88c848237f7.png)
+![image](https://user-images.githubusercontent.com/15951051/115327271-3dbc2f80-a154-11eb-8503-be5b72bd4e0c.png)
 
 ![image](https://user-images.githubusercontent.com/15951051/115315294-a5ff1700-a13c-11eb-9da7-b65d76351e52.png)
 
