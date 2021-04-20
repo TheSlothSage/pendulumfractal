@@ -24,3 +24,5 @@ Where A is defined as:
 
 ![image](https://user-images.githubusercontent.com/15951051/115316147-676a5c00-a13e-11eb-91c2-167340a8e034.png)
 
+
+POC in matlab, full visualization in haskell 
