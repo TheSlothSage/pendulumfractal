@@ -10,7 +10,7 @@ solving for X(t):
 
 ![image](https://user-images.githubusercontent.com/15951051/115315236-84059480-a13c-11eb-8a4b-6b3a50e2c97a.png)
 
-then:
+then, combining this equation with the kinematic equation of motion (x = V0^2 + (1/2)at^2:
 
 ![image](https://user-images.githubusercontent.com/15951051/115315286-9e3f7280-a13c-11eb-947a-373bb0036d19.png)
 
