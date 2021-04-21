@@ -1,0 +1,8 @@
+%KaleySagehorn
+%https://github.com/TheSlothSage/pendulumfractal/blob/main/README.md
+
+addpath(".");
+const = getSimulationConstants(.01, 10, 1, 2, [4 4 4; 1 -1 0; 0 0 -1]);
+v = initState(const);
+
+getPoints(
