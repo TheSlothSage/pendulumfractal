@@ -1,7 +1,6 @@
 % takes a state vector and steps over some dt and updates the state
 function new_v = step_NoAttractors(v, const)
   dt = const.dt; % time step
-  M  = const.M; % M 
   x0 = const.x0;
   y0 = const.y0; 
   R  = const.R;
@@ -11,7 +10,7 @@ function new_v = step_NoAttractors(v, const)
   % motion of our pendulum
 
   x = x0*exp(-abs(t*x0)/R) * (cos(R*t) - sin(R*t));
-  y = y0*exp(-abs(t*y0)/R) * (cos(R*t) - sin(R*t));
+  y = x0*exp(-abs(t*y0)/R) * (cos(R*t) - sin(R*t));
 
   %approximate derivative
 
