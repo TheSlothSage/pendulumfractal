@@ -2,12 +2,12 @@
 %https://github.com/TheSlothSage/pendulumfractal/blob/main/README.md
 
 addpath(".");
-const = getSimulationConstants(.0001, 10, 1, 2, 4, [4 4 4; 1 -1 0; 0 0 -1]);
+
+% dt = 10^-3 
+
+const = getSimulationConstants(.001, 100, 2, 1, 20, [5 -1 0; -1 0 -1; 0 0 0]);
 v = initState(const);
 
-hold on
+p = getPoints(v, const)
 
-p = getPoints_NoAttractors(v, const)
-plot(p(:,1), p(:,2))
-
-hold off
+plot(p(:,1), p(:,2));
