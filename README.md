@@ -13,7 +13,7 @@ Solution for simple pendulum motion in one direction:
 Shown here is a plot of a pendulum without any attractors.
 
 
-![image](https://user-images.githubusercontent.com/15951051/115473348-2dae5980-a201-11eb-93a2-46ccea5a78e1.png)
+![image](https://user-images.githubusercontent.com/15951051/115486667-c1415380-a21c-11eb-80b6-e1481df5c8d2.png)
 
 
 
